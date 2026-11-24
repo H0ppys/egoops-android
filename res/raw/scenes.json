@@ -1,0 +1,1996 @@
+{
+"version": "TET v2.2",
+"count": 254,
+"items": [
+{
+"path": "retail/convenience_store",
+"category": "零售",
+"scene": "便利店",
+"label": "零售 / 便利店",
+"tet": "retail/convenience_store"
+},
+{
+"path": "retail/community_supermarket",
+"category": "零售",
+"scene": "社区超市",
+"label": "零售 / 社区超市",
+"tet": "retail/community_supermarket"
+},
+{
+"path": "retail/large_retailing_store",
+"category": "零售",
+"scene": "大型商超",
+"label": "零售 / 大型商超",
+"tet": "retail/large_retailing_store"
+},
+{
+"path": "retail/grocery_store",
+"category": "零售",
+"scene": "生鲜店",
+"label": "零售 / 生鲜店",
+"tet": "retail/grocery_store"
+},
+{
+"path": "retail/flower_shop",
+"category": "零售",
+"scene": "花店",
+"label": "零售 / 花店",
+"tet": "retail/flower_shop"
+},
+{
+"path": "retail/fruit_store",
+"category": "零售",
+"scene": "水果店",
+"label": "零售 / 水果店",
+"tet": "retail/fruit_store"
+},
+{
+"path": "retail/pharmacy_store",
+"category": "零售",
+"scene": "药店",
+"label": "零售 / 药店",
+"tet": "retail/pharmacy_store"
+},
+{
+"path": "retail/maternity_baby_store",
+"category": "零售",
+"scene": "母婴店",
+"label": "零售 / 母婴店",
+"tet": "retail/maternity_baby_store"
+},
+{
+"path": "retail/stationery_store",
+"category": "零售",
+"scene": "文具店",
+"label": "零售 / 文具店",
+"tet": "retail/stationery_store"
+},
+{
+"path": "retail/bookstore",
+"category": "零售",
+"scene": "书店",
+"label": "零售 / 书店",
+"tet": "retail/bookstore"
+},
+{
+"path": "retail/toy_store",
+"category": "零售",
+"scene": "玩具店",
+"label": "零售 / 玩具店",
+"tet": "retail/toy_store"
+},
+{
+"path": "retail/apparel_store",
+"category": "零售",
+"scene": "服饰店",
+"label": "零售 / 服饰店",
+"tet": "retail/apparel_store"
+},
+{
+"path": "retail/shoe_store",
+"category": "零售",
+"scene": "鞋店",
+"label": "零售 / 鞋店",
+"tet": "retail/shoe_store"
+},
+{
+"path": "retail/bags_luggage_store",
+"category": "零售",
+"scene": "箱包店",
+"label": "零售 / 箱包店",
+"tet": "retail/bags_luggage_store"
+},
+{
+"path": "retail/jewelry_store",
+"category": "零售",
+"scene": "珠宝饰品店",
+"label": "零售 / 珠宝饰品店",
+"tet": "retail/jewelry_store"
+},
+{
+"path": "retail/beauty_cosmetics_store",
+"category": "零售",
+"scene": "美妆店",
+"label": "零售 / 美妆店",
+"tet": "retail/beauty_cosmetics_store"
+},
+{
+"path": "retail/personal_care_store",
+"category": "零售",
+"scene": "个护洗护店",
+"label": "零售 / 个护洗护店",
+"tet": "retail/personal_care_store"
+},
+{
+"path": "retail/digital_products_store",
+"category": "零售",
+"scene": "数码店",
+"label": "零售 / 数码店",
+"tet": "retail/digital_products_store"
+},
+{
+"path": "retail/mobile_phone_store",
+"category": "零售",
+"scene": "手机店",
+"label": "零售 / 手机店",
+"tet": "retail/mobile_phone_store"
+},
+{
+"path": "retail/home_appliance_store",
+"category": "零售",
+"scene": "家电卖场",
+"label": "零售 / 家电卖场",
+"tet": "retail/home_appliance_store"
+},
+{
+"path": "retail/home_furnishings_store",
+"category": "零售",
+"scene": "家居用品店",
+"label": "零售 / 家居用品店",
+"tet": "retail/home_furnishings_store"
+},
+{
+"path": "retail/hardware_store",
+"category": "零售",
+"scene": "五金店",
+"label": "零售 / 五金店",
+"tet": "retail/hardware_store"
+},
+{
+"path": "retail/pet_supplies_store",
+"category": "零售",
+"scene": "宠物用品店",
+"label": "零售 / 宠物用品店",
+"tet": "retail/pet_supplies_store"
+},
+{
+"path": "retail/tobacco_liquor_store",
+"category": "零售",
+"scene": "烟酒专卖店",
+"label": "零售 / 烟酒专卖店",
+"tet": "retail/tobacco_liquor_store"
+},
+{
+"path": "retail/tea_store",
+"category": "零售",
+"scene": "茶叶店",
+"label": "零售 / 茶叶店",
+"tet": "retail/tea_store"
+},
+{
+"path": "retail/gift_store",
+"category": "零售",
+"scene": "礼品店",
+"label": "零售 / 礼品店",
+"tet": "retail/gift_store"
+},
+{
+"path": "retail/snack_store",
+"category": "零售",
+"scene": "零食店",
+"label": "零售 / 零食店",
+"tet": "retail/snack_store"
+},
+{
+"path": "retail/delicatessen",
+"category": "零售",
+"scene": "熟食店",
+"label": "零售 / 熟食店",
+"tet": "retail/delicatessen"
+},
+{
+"path": "retail/bakery_store",
+"category": "零售",
+"scene": "烘焙零售店",
+"label": "零售 / 烘焙零售店",
+"tet": "retail/bakery_store"
+},
+{
+"path": "retail/optical_store",
+"category": "零售",
+"scene": "眼镜店",
+"label": "零售 / 眼镜店",
+"tet": "retail/optical_store"
+},
+{
+"path": "retail/lottery_store",
+"category": "零售",
+"scene": "彩票店",
+"label": "零售 / 彩票店",
+"tet": "retail/lottery_store"
+},
+{
+"path": "retail/discount_store",
+"category": "零售",
+"scene": "折扣店",
+"label": "零售 / 折扣店",
+"tet": "retail/discount_store"
+},
+{
+"path": "retail/warehouse_club",
+"category": "零售",
+"scene": "仓储会员店",
+"label": "零售 / 仓储会员店",
+"tet": "retail/warehouse_club"
+},
+{
+"path": "retail/vending_machine_area",
+"category": "零售",
+"scene": "自动售货区",
+"label": "零售 / 自动售货区",
+"tet": "retail/vending_machine_area"
+},
+{
+"path": "retail/mall_open_island_counter",
+"category": "零售",
+"scene": "商场开放式中岛柜台",
+"label": "零售 / 商场开放式中岛柜台",
+"tet": "retail/mall_open_island_counter"
+},
+{
+"path": "retail/mall_brand_store",
+"category": "零售",
+"scene": "商场品牌专卖店",
+"label": "零售 / 商场品牌专卖店",
+"tet": "retail/mall_brand_store"
+},
+{
+"path": "retail/mall_pop_up_store",
+"category": "零售",
+"scene": "商场快闪店",
+"label": "零售 / 商场快闪店",
+"tet": "retail/mall_pop_up_store"
+},
+{
+"path": "food_service/coffee_shop",
+"category": "餐饮",
+"scene": "咖啡店",
+"label": "餐饮 / 咖啡店",
+"tet": "food_service/coffee_shop"
+},
+{
+"path": "food_service/specialty_coffee_shop",
+"category": "餐饮",
+"scene": "精品咖啡馆",
+"label": "餐饮 / 精品咖啡馆",
+"tet": "food_service/specialty_coffee_shop"
+},
+{
+"path": "food_service/chain_coffee_store",
+"category": "餐饮",
+"scene": "连锁咖啡门店",
+"label": "餐饮 / 连锁咖啡门店",
+"tet": "food_service/chain_coffee_store"
+},
+{
+"path": "food_service/milk_tea_bubble_tea_shop",
+"category": "餐饮",
+"scene": "奶茶店",
+"label": "餐饮 / 奶茶店",
+"tet": "food_service/milk_tea_bubble_tea_shop"
+},
+{
+"path": "food_service/juice_light_beverage_shop",
+"category": "餐饮",
+"scene": "果汁 / 轻饮店",
+"label": "餐饮 / 果汁 / 轻饮店",
+"tet": "food_service/juice_light_beverage_shop"
+},
+{
+"path": "food_service/ice_cream_shop",
+"category": "餐饮",
+"scene": "冰淇淋店",
+"label": "餐饮 / 冰淇淋店",
+"tet": "food_service/ice_cream_shop"
+},
+{
+"path": "restaurant/bakery",
+"category": "餐饮",
+"scene": "面包店",
+"label": "餐饮 / 面包店",
+"tet": "restaurant/bakery"
+},
+{
+"path": "food_service/cake_shop",
+"category": "餐饮",
+"scene": "蛋糕店",
+"label": "餐饮 / 蛋糕店",
+"tet": "food_service/cake_shop"
+},
+{
+"path": "food_service/dessert_shop",
+"category": "餐饮",
+"scene": "甜品店",
+"label": "餐饮 / 甜品店",
+"tet": "food_service/dessert_shop"
+},
+{
+"path": "food_service/fast_food_restaurant",
+"category": "餐饮",
+"scene": "快餐店",
+"label": "餐饮 / 快餐店",
+"tet": "food_service/fast_food_restaurant"
+},
+{
+"path": "food_service/burger_restaurant",
+"category": "餐饮",
+"scene": "汉堡店",
+"label": "餐饮 / 汉堡店",
+"tet": "food_service/burger_restaurant"
+},
+{
+"path": "food_service/fried_chicken_restaurant",
+"category": "餐饮",
+"scene": "炸鸡店",
+"label": "餐饮 / 炸鸡店",
+"tet": "food_service/fried_chicken_restaurant"
+},
+{
+"path": "food_service/rice_noodle_noodle_restaurant",
+"category": "餐饮",
+"scene": "米线 / 面馆",
+"label": "餐饮 / 米线 / 面馆",
+"tet": "food_service/rice_noodle_noodle_restaurant"
+},
+{
+"path": "food_service/dumpling_wonton_restaurant",
+"category": "餐饮",
+"scene": "饺子 / 馄饨店",
+"label": "餐饮 / 饺子 / 馄饨店",
+"tet": "food_service/dumpling_wonton_restaurant"
+},
+{
+"path": "food_service/breakfast_stall",
+"category": "餐饮",
+"scene": "早餐铺",
+"label": "餐饮 / 早餐铺",
+"tet": "food_service/breakfast_stall"
+},
+{
+"path": "food_service/snack_bar",
+"category": "餐饮",
+"scene": "小吃店",
+"label": "餐饮 / 小吃店",
+"tet": "food_service/snack_bar"
+},
+{
+"path": "food_service/breakfast_franchise_outlet",
+"category": "餐饮",
+"scene": "早餐加盟点",
+"label": "餐饮 / 早餐加盟点",
+"tet": "food_service/breakfast_franchise_outlet"
+},
+{
+"path": "food_service/braised_delicacies",
+"category": "餐饮",
+"scene": "熟食卤味店",
+"label": "餐饮 / 熟食卤味店",
+"tet": "food_service/braised_delicacies"
+},
+{
+"path": "food_service/bbq_restaurant",
+"category": "餐饮",
+"scene": "烧烤店",
+"label": "餐饮 / 烧烤店",
+"tet": "food_service/bbq_restaurant"
+},
+{
+"path": "food_service/hot_pot_restaurant",
+"category": "餐饮",
+"scene": "火锅店",
+"label": "餐饮 / 火锅店",
+"tet": "food_service/hot_pot_restaurant"
+},
+{
+"path": "food_service/chinese_restaurant",
+"category": "餐饮",
+"scene": "中式正餐厅",
+"label": "餐饮 / 中式正餐厅",
+"tet": "food_service/chinese_restaurant"
+},
+{
+"path": "food_service/western_restaurant",
+"category": "餐饮",
+"scene": "西式餐厅",
+"label": "餐饮 / 西式餐厅",
+"tet": "food_service/western_restaurant"
+},
+{
+"path": "food_service/japanese_restaurant",
+"category": "餐饮",
+"scene": "日料店",
+"label": "餐饮 / 日料店",
+"tet": "food_service/japanese_restaurant"
+},
+{
+"path": "food_service/korean_restaurant",
+"category": "餐饮",
+"scene": "韩餐店",
+"label": "餐饮 / 韩餐店",
+"tet": "food_service/korean_restaurant"
+},
+{
+"path": "food_service/buffet_restaurant",
+"category": "餐饮",
+"scene": "自助餐厅",
+"label": "餐饮 / 自助餐厅",
+"tet": "food_service/buffet_restaurant"
+},
+{
+"path": "food_service/canteen",
+"category": "餐饮",
+"scene": "食堂",
+"label": "餐饮 / 食堂",
+"tet": "food_service/canteen"
+},
+{
+"path": "food_service/school_canteen",
+"category": "餐饮",
+"scene": "学校食堂",
+"label": "餐饮 / 学校食堂",
+"tet": "food_service/school_canteen"
+},
+{
+"path": "food_service/corporate_canteen",
+"category": "餐饮",
+"scene": "企业食堂",
+"label": "餐饮 / 企业食堂",
+"tet": "food_service/corporate_canteen"
+},
+{
+"path": "food_service/delivery_ghost_kitchen",
+"category": "餐饮",
+"scene": "外卖前置厨房",
+"label": "餐饮 / 外卖前置厨房",
+"tet": "food_service/delivery_ghost_kitchen"
+},
+{
+"path": "food_service/central_kitchen_counter",
+"category": "餐饮",
+"scene": "中央厨房档口",
+"label": "餐饮 / 中央厨房档口",
+"tet": "food_service/central_kitchen_counter"
+},
+{
+"path": "food_service/roadside_stall",
+"category": "餐饮",
+"scene": "路边摊",
+"label": "餐饮 / 路边摊",
+"tet": "food_service/roadside_stall"
+},
+{
+"path": "food_service/food_court_counter",
+"category": "餐饮",
+"scene": "美食广场档口",
+"label": "餐饮 / 美食广场档口",
+"tet": "food_service/food_court_counter"
+},
+{
+"path": "food_service/bar",
+"category": "餐饮",
+"scene": "酒吧",
+"label": "餐饮 / 酒吧",
+"tet": "food_service/bar"
+},
+{
+"path": "food_service/lounge_bar",
+"category": "餐饮",
+"scene": "清吧",
+"label": "餐饮 / 清吧",
+"tet": "food_service/lounge_bar"
+},
+{
+"path": "food_service/ktv_dining_area",
+"category": "餐饮",
+"scene": "KTV 餐饮区",
+"label": "餐饮 / KTV 餐饮区",
+"tet": "food_service/ktv_dining_area"
+},
+{
+"path": "warehouse_logistics/small_warehouse",
+"category": "仓储物流",
+"scene": "小型仓库",
+"label": "仓储物流 / 小型仓库",
+"tet": "warehouse_logistics/small_warehouse"
+},
+{
+"path": "warehouse_logistics/medium_warehouse",
+"category": "仓储物流",
+"scene": "中型仓库",
+"label": "仓储物流 / 中型仓库",
+"tet": "warehouse_logistics/medium_warehouse"
+},
+{
+"path": "warehouse_logistics/high_rack_warehouse",
+"category": "仓储物流",
+"scene": "高位货架仓",
+"label": "仓储物流 / 高位货架仓",
+"tet": "warehouse_logistics/high_rack_warehouse"
+},
+{
+"path": "warehouse_logistics/retail_backroom",
+"category": "仓储物流",
+"scene": "零售后仓",
+"label": "仓储物流 / 零售后仓",
+"tet": "warehouse_logistics/retail_backroom"
+},
+{
+"path": "warehouse_logistics/store_replenishment_warehouse",
+"category": "仓储物流",
+"scene": "门店补货仓",
+"label": "仓储物流 / 门店补货仓",
+"tet": "warehouse_logistics/store_replenishment_warehouse"
+},
+{
+"path": "warehouse_logistics/e_commerce_warehouse",
+"category": "仓储物流",
+"scene": "电商仓",
+"label": "仓储物流 / 电商仓",
+"tet": "warehouse_logistics/e_commerce_warehouse"
+},
+{
+"path": "warehouse_logistics/front_warehouse",
+"category": "仓储物流",
+"scene": "前置仓",
+"label": "仓储物流 / 前置仓",
+"tet": "warehouse_logistics/front_warehouse"
+},
+{
+"path": "warehouse_logistics/cold_chain_warehouse",
+"category": "仓储物流",
+"scene": "冷链仓",
+"label": "仓储物流 / 冷链仓",
+"tet": "warehouse_logistics/cold_chain_warehouse"
+},
+{
+"path": "warehouse_logistics/fresh_produce_warehouse",
+"category": "仓储物流",
+"scene": "生鲜仓",
+"label": "仓储物流 / 生鲜仓",
+"tet": "warehouse_logistics/fresh_produce_warehouse"
+},
+{
+"path": "warehouse_logistics/pharmaceutical_warehouse",
+"category": "仓储物流",
+"scene": "医药仓",
+"label": "仓储物流 / 医药仓",
+"tet": "warehouse_logistics/pharmaceutical_warehouse"
+},
+{
+"path": "warehouse_logistics/consumables_warehouse",
+"category": "仓储物流",
+"scene": "耗材仓",
+"label": "仓储物流 / 耗材仓",
+"tet": "warehouse_logistics/consumables_warehouse"
+},
+{
+"path": "warehouse_logistics/raw_material_warehouse",
+"category": "仓储物流",
+"scene": "原料仓",
+"label": "仓储物流 / 原料仓",
+"tet": "warehouse_logistics/raw_material_warehouse"
+},
+{
+"path": "warehouse_logistics/finished_goods_warehouse",
+"category": "仓储物流",
+"scene": "成品仓",
+"label": "仓储物流 / 成品仓",
+"tet": "warehouse_logistics/finished_goods_warehouse"
+},
+{
+"path": "warehouse_logistics/returns_warehouse",
+"category": "仓储物流",
+"scene": "退货仓",
+"label": "仓储物流 / 退货仓",
+"tet": "warehouse_logistics/returns_warehouse"
+},
+{
+"path": "warehouse_logistics/exception_handling_area",
+"category": "仓储物流",
+"scene": "异常件处理区",
+"label": "仓储物流 / 异常件处理区",
+"tet": "warehouse_logistics/exception_handling_area"
+},
+{
+"path": "warehouse_logistics/courier_station",
+"category": "仓储物流",
+"scene": "快递站点",
+"label": "仓储物流 / 快递站点",
+"tet": "warehouse_logistics/courier_station"
+},
+{
+"path": "warehouse_logistics/express_distribution_center",
+"category": "仓储物流",
+"scene": "快递分拨中心",
+"label": "仓储物流 / 快递分拨中心",
+"tet": "warehouse_logistics/express_distribution_center"
+},
+{
+"path": "warehouse_logistics/parcel_consolidation_point",
+"category": "仓储物流",
+"scene": "包裹集散点",
+"label": "仓储物流 / 包裹集散点",
+"tet": "warehouse_logistics/parcel_consolidation_point"
+},
+{
+"path": "warehouse_logistics/local_delivery_station",
+"category": "仓储物流",
+"scene": "同城配送站",
+"label": "仓储物流 / 同城配送站",
+"tet": "warehouse_logistics/local_delivery_station"
+},
+{
+"path": "warehouse_logistics/rider_pickup_point",
+"category": "仓储物流",
+"scene": "骑手取货点",
+"label": "仓储物流 / 骑手取货点",
+"tet": "warehouse_logistics/rider_pickup_point"
+},
+{
+"path": "warehouse_logistics/community_group_buy_pickup_backroom",
+"category": "仓储物流",
+"scene": "社区团购自提点后场",
+"label": "仓储物流 / 社区团购自提点后场",
+"tet": "warehouse_logistics/community_group_buy_pickup_backroom"
+},
+{
+"path": "warehouse_logistics/loading_dock",
+"category": "仓储物流",
+"scene": "装卸货平台",
+"label": "仓储物流 / 装卸货平台",
+"tet": "warehouse_logistics/loading_dock"
+},
+{
+"path": "warehouse_logistics/receiving_area",
+"category": "仓储物流",
+"scene": "收货区",
+"label": "仓储物流 / 收货区",
+"tet": "warehouse_logistics/receiving_area"
+},
+{
+"path": "warehouse_logistics/shipping_area",
+"category": "仓储物流",
+"scene": "发货区",
+"label": "仓储物流 / 发货区",
+"tet": "warehouse_logistics/shipping_area"
+},
+{
+"path": "warehouse_logistics/packing_center",
+"category": "仓储物流",
+"scene": "打包中心",
+"label": "仓储物流 / 打包中心",
+"tet": "warehouse_logistics/packing_center"
+},
+{
+"path": "warehouse_logistics/sorting_center",
+"category": "仓储物流",
+"scene": "分拣中心",
+"label": "仓储物流 / 分拣中心",
+"tet": "warehouse_logistics/sorting_center"
+},
+{
+"path": "warehouse_logistics/staging_area",
+"category": "仓储物流",
+"scene": "暂存区",
+"label": "仓储物流 / 暂存区",
+"tet": "warehouse_logistics/staging_area"
+},
+{
+"path": "warehouse_logistics/tote_processing_area",
+"category": "仓储物流",
+"scene": "周转箱作业区",
+"label": "仓储物流 / 周转箱作业区",
+"tet": "warehouse_logistics/tote_processing_area"
+},
+{
+"path": "warehouse_logistics/inventory_counting_area",
+"category": "仓储物流",
+"scene": "盘点区",
+"label": "仓储物流 / 盘点区",
+"tet": "warehouse_logistics/inventory_counting_area"
+},
+{
+"path": "warehouse_logistics/scan_verification_area",
+"category": "仓储物流",
+"scene": "扫描复核区",
+"label": "仓储物流 / 扫描复核区",
+"tet": "warehouse_logistics/scan_verification_area"
+},
+{
+"path": "home/studio_apartment",
+"category": "居家",
+"scene": "单身公寓",
+"label": "居家 / 单身公寓",
+"tet": "home/studio_apartment"
+},
+{
+"path": "home/one_bedroom_residence",
+"category": "居家",
+"scene": "一居室住宅",
+"label": "居家 / 一居室住宅",
+"tet": "home/one_bedroom_residence"
+},
+{
+"path": "home/two_bedroom_residence",
+"category": "居家",
+"scene": "两居室住宅",
+"label": "居家 / 两居室住宅",
+"tet": "home/two_bedroom_residence"
+},
+{
+"path": "home/three_bedroom_residence",
+"category": "居家",
+"scene": "三居室住宅",
+"label": "居家 / 三居室住宅",
+"tet": "home/three_bedroom_residence"
+},
+{
+"path": "home/shared_apartment",
+"category": "居家",
+"scene": "合租公寓",
+"label": "居家 / 合租公寓",
+"tet": "home/shared_apartment"
+},
+{
+"path": "home/student_dormitory",
+"category": "居家",
+"scene": "学生宿舍",
+"label": "居家 / 学生宿舍",
+"tet": "home/student_dormitory"
+},
+{
+"path": "home/youth_apartment",
+"category": "居家",
+"scene": "青年公寓",
+"label": "居家 / 青年公寓",
+"tet": "home/youth_apartment"
+},
+{
+"path": "home/detached_house",
+"category": "居家",
+"scene": "独栋住宅",
+"label": "居家 / 独栋住宅",
+"tet": "home/detached_house"
+},
+{
+"path": "home/duplex_residence",
+"category": "居家",
+"scene": "复式住宅",
+"label": "居家 / 复式住宅",
+"tet": "home/duplex_residence"
+},
+{
+"path": "home/villa",
+"category": "居家",
+"scene": "别墅",
+"label": "居家 / 别墅",
+"tet": "home/villa"
+},
+{
+"path": "home/old_community_residence",
+"category": "居家",
+"scene": "老旧小区住宅",
+"label": "居家 / 老旧小区住宅",
+"tet": "home/old_community_residence"
+},
+{
+"path": "home/newly_renovated_residence",
+"category": "居家",
+"scene": "新装修住宅",
+"label": "居家 / 新装修住宅",
+"tet": "home/newly_renovated_residence"
+},
+{
+"path": "home/home_kitchen",
+"category": "居家",
+"scene": "家庭厨房",
+"label": "居家 / 家庭厨房",
+"tet": "home/home_kitchen"
+},
+{
+"path": "home/home_living_room",
+"category": "居家",
+"scene": "家庭客厅",
+"label": "居家 / 家庭客厅",
+"tet": "home/home_living_room"
+},
+{
+"path": "home/home_dining_room",
+"category": "居家",
+"scene": "家庭餐厅",
+"label": "居家 / 家庭餐厅",
+"tet": "home/home_dining_room"
+},
+{
+"path": "home/home_study",
+"category": "居家",
+"scene": "家庭书房",
+"label": "居家 / 家庭书房",
+"tet": "home/home_study"
+},
+{
+"path": "home/childrens_room",
+"category": "居家",
+"scene": "儿童房",
+"label": "居家 / 儿童房",
+"tet": "home/childrens_room"
+},
+{
+"path": "home/senior_room",
+"category": "居家",
+"scene": "老人房",
+"label": "居家 / 老人房",
+"tet": "home/senior_room"
+},
+{
+"path": "home/storage_room",
+"category": "居家",
+"scene": "储藏间",
+"label": "居家 / 储藏间",
+"tet": "home/storage_room"
+},
+{
+"path": "home/walk_in_closet",
+"category": "居家",
+"scene": "衣帽间",
+"label": "居家 / 衣帽间",
+"tet": "home/walk_in_closet"
+},
+{
+"path": "home/balcony_laundry_area",
+"category": "居家",
+"scene": "阳台洗衣区",
+"label": "居家 / 阳台洗衣区",
+"tet": "home/balcony_laundry_area"
+},
+{
+"path": "home/home_workshop",
+"category": "居家",
+"scene": "家庭工具房",
+"label": "居家 / 家庭工具房",
+"tet": "home/home_workshop"
+},
+{
+"path": "home/garage",
+"category": "居家",
+"scene": "车库",
+"label": "居家 / 车库",
+"tet": "home/garage"
+},
+{
+"path": "home/basement_storage",
+"category": "居家",
+"scene": "地下储物间",
+"label": "居家 / 地下储物间",
+"tet": "home/basement_storage"
+},
+{
+"path": "home/apartment_common_corridor",
+"category": "居家",
+"scene": "公寓公共走廊",
+"label": "居家 / 公寓公共走廊",
+"tet": "home/apartment_common_corridor"
+},
+{
+"path": "home/stairwell",
+"category": "居家",
+"scene": "楼梯间",
+"label": "居家 / 楼梯间",
+"tet": "home/stairwell"
+},
+{
+"path": "home/elevator_lobby",
+"category": "居家",
+"scene": "电梯前室",
+"label": "居家 / 电梯前室",
+"tet": "home/elevator_lobby"
+},
+{
+"path": "home/community_activity_room",
+"category": "居家",
+"scene": "小区公共活动室",
+"label": "居家 / 小区公共活动室",
+"tet": "home/community_activity_room"
+},
+{
+"path": "commercial_service/bank_branch",
+"category": "商业服务",
+"scene": "银行营业厅",
+"label": "商业服务 / 银行营业厅",
+"tet": "commercial_service/bank_branch"
+},
+{
+"path": "commercial_service/insurance_branch",
+"category": "商业服务",
+"scene": "保险营业点",
+"label": "商业服务 / 保险营业点",
+"tet": "commercial_service/insurance_branch"
+},
+{
+"path": "commercial_service/telecom_service_hall",
+"category": "商业服务",
+"scene": "通讯营业厅",
+"label": "商业服务 / 通讯营业厅",
+"tet": "commercial_service/telecom_service_hall"
+},
+{
+"path": "commercial_service/government_service_hall",
+"category": "商业服务",
+"scene": "政务服务大厅",
+"label": "商业服务 / 政务服务大厅",
+"tet": "commercial_service/government_service_hall"
+},
+{
+"path": "public_mobility/community_service_center",
+"category": "商业服务",
+"scene": "社区服务中心",
+"label": "商业服务 / 社区服务中心",
+"tet": "public_mobility/community_service_center"
+},
+{
+"path": "commercial_service/barber_shop",
+"category": "商业服务",
+"scene": "理发店",
+"label": "商业服务 / 理发店",
+"tet": "commercial_service/barber_shop"
+},
+{
+"path": "commercial_service/hair_salon",
+"category": "商业服务",
+"scene": "美发沙龙",
+"label": "商业服务 / 美发沙龙",
+"tet": "commercial_service/hair_salon"
+},
+{
+"path": "commercial_service/nail_salon",
+"category": "商业服务",
+"scene": "美甲店",
+"label": "商业服务 / 美甲店",
+"tet": "commercial_service/nail_salon"
+},
+{
+"path": "commercial_service/beauty_salon",
+"category": "商业服务",
+"scene": "美容院",
+"label": "商业服务 / 美容院",
+"tet": "commercial_service/beauty_salon"
+},
+{
+"path": "commercial_service/spa",
+"category": "商业服务",
+"scene": "SPA 店",
+"label": "商业服务 / SPA 店",
+"tet": "commercial_service/spa"
+},
+{
+"path": "commercial_service/massage_store",
+"category": "商业服务",
+"scene": "按摩店",
+"label": "商业服务 / 按摩店",
+"tet": "commercial_service/massage_store"
+},
+{
+"path": "commercial_service/gym",
+"category": "商业服务",
+"scene": "健身房",
+"label": "商业服务 / 健身房",
+"tet": "commercial_service/gym"
+},
+{
+"path": "commercial_service/yoga_studio",
+"category": "商业服务",
+"scene": "瑜伽馆",
+"label": "商业服务 / 瑜伽馆",
+"tet": "commercial_service/yoga_studio"
+},
+{
+"path": "education/dance_studio",
+"category": "商业服务",
+"scene": "舞蹈教室",
+"label": "商业服务 / 舞蹈教室",
+"tet": "education/dance_studio"
+},
+{
+"path": "commercial_service/laundry_shop",
+"category": "商业服务",
+"scene": "洗衣店",
+"label": "商业服务 / 洗衣店",
+"tet": "commercial_service/laundry_shop"
+},
+{
+"path": "commercial_service/dry_clean_shop",
+"category": "商业服务",
+"scene": "干洗店",
+"label": "商业服务 / 干洗店",
+"tet": "commercial_service/dry_clean_shop"
+},
+{
+"path": "commercial_service/shoe_repair_shop",
+"category": "商业服务",
+"scene": "修鞋店",
+"label": "商业服务 / 修鞋店",
+"tet": "commercial_service/shoe_repair_shop"
+},
+{
+"path": "commercial_service/key_duplication_shop",
+"category": "商业服务",
+"scene": "钥匙配制店",
+"label": "商业服务 / 钥匙配制店",
+"tet": "commercial_service/key_duplication_shop"
+},
+{
+"path": "commercial_service/phone_repair_shop",
+"category": "商业服务",
+"scene": "手机维修店",
+"label": "商业服务 / 手机维修店",
+"tet": "commercial_service/phone_repair_shop"
+},
+{
+"path": "commercial_service/computer_repair_shop",
+"category": "商业服务",
+"scene": "电脑维修店",
+"label": "商业服务 / 电脑维修店",
+"tet": "commercial_service/computer_repair_shop"
+},
+{
+"path": "commercial_service/copy_print_shop",
+"category": "商业服务",
+"scene": "复印打印店",
+"label": "商业服务 / 复印打印店",
+"tet": "commercial_service/copy_print_shop"
+},
+{
+"path": "commercial_service/photo_printing_shop",
+"category": "商业服务",
+"scene": "摄影冲印店",
+"label": "商业服务 / 摄影冲印店",
+"tet": "commercial_service/photo_printing_shop"
+},
+{
+"path": "commercial_service/agency_office",
+"category": "商业服务",
+"scene": "中介门店",
+"label": "商业服务 / 中介门店",
+"tet": "commercial_service/agency_office"
+},
+{
+"path": "commercial_service/real_estate_agency",
+"category": "商业服务",
+"scene": "房产中介门店",
+"label": "商业服务 / 房产中介门店",
+"tet": "commercial_service/real_estate_agency"
+},
+{
+"path": "commercial_service/travel_agency",
+"category": "商业服务",
+"scene": "旅行社门店",
+"label": "商业服务 / 旅行社门店",
+"tet": "commercial_service/travel_agency"
+},
+{
+"path": "commercial_service/ticket_office",
+"category": "商业服务",
+"scene": "票务点",
+"label": "商业服务 / 票务点",
+"tet": "commercial_service/ticket_office"
+},
+{
+"path": "healthcare/community_clinic",
+"category": "医疗健康",
+"scene": "社区诊所",
+"label": "医疗健康 / 社区诊所",
+"tet": "healthcare/community_clinic"
+},
+{
+"path": "healthcare/general_outpatient_clinic",
+"category": "医疗健康",
+"scene": "综合门诊",
+"label": "医疗健康 / 综合门诊",
+"tet": "healthcare/general_outpatient_clinic"
+},
+{
+"path": "healthcare/specialist_clinic",
+"category": "医疗健康",
+"scene": "专科门诊",
+"label": "医疗健康 / 专科门诊",
+"tet": "healthcare/specialist_clinic"
+},
+{
+"path": "healthcare/dental_clinic",
+"category": "医疗健康",
+"scene": "牙科诊所",
+"label": "医疗健康 / 牙科诊所",
+"tet": "healthcare/dental_clinic"
+},
+{
+"path": "healthcare/ophthalmology_clinic",
+"category": "医疗健康",
+"scene": "眼科诊所",
+"label": "医疗健康 / 眼科诊所",
+"tet": "healthcare/ophthalmology_clinic"
+},
+{
+"path": "healthcare/tcm_clinic",
+"category": "医疗健康",
+"scene": "中医馆",
+"label": "医疗健康 / 中医馆",
+"tet": "healthcare/tcm_clinic"
+},
+{
+"path": "healthcare/physiotherapy_clinic",
+"category": "医疗健康",
+"scene": "理疗馆",
+"label": "医疗健康 / 理疗馆",
+"tet": "healthcare/physiotherapy_clinic"
+},
+{
+"path": "healthcare/rehabilitation_center",
+"category": "医疗健康",
+"scene": "康复中心",
+"label": "医疗健康 / 康复中心",
+"tet": "healthcare/rehabilitation_center"
+},
+{
+"path": "healthcare/health_checkup_center",
+"category": "医疗健康",
+"scene": "体检中心",
+"label": "医疗健康 / 体检中心",
+"tet": "healthcare/health_checkup_center"
+},
+{
+"path": "healthcare/community_health_service_station",
+"category": "医疗健康",
+"scene": "社区卫生服务站",
+"label": "医疗健康 / 社区卫生服务站",
+"tet": "healthcare/community_health_service_station"
+},
+{
+"path": "healthcare/pharmacy",
+"category": "医疗健康",
+"scene": "药房",
+"label": "医疗健康 / 药房",
+"tet": "healthcare/pharmacy"
+},
+{
+"path": "healthcare/medical_device_store",
+"category": "医疗健康",
+"scene": "医疗器械门店",
+"label": "医疗健康 / 医疗器械门店",
+"tet": "healthcare/medical_device_store"
+},
+{
+"path": "healthcare/nursing_station",
+"category": "医疗健康",
+"scene": "护理站",
+"label": "医疗健康 / 护理站",
+"tet": "healthcare/nursing_station"
+},
+{
+"path": "healthcare/vaccination_site",
+"category": "医疗健康",
+"scene": "疫苗接种点",
+"label": "医疗健康 / 疫苗接种点",
+"tet": "healthcare/vaccination_site"
+},
+{
+"path": "healthcare/testing_sampling_site",
+"category": "医疗健康",
+"scene": "检验采样点",
+"label": "医疗健康 / 检验采样点",
+"tet": "healthcare/testing_sampling_site"
+},
+{
+"path": "healthcare/pet_hospital",
+"category": "医疗健康",
+"scene": "宠物医院",
+"label": "医疗健康 / 宠物医院",
+"tet": "healthcare/pet_hospital"
+},
+{
+"path": "healthcare/pet_clinic",
+"category": "医疗健康",
+"scene": "宠物诊所",
+"label": "医疗健康 / 宠物诊所",
+"tet": "healthcare/pet_clinic"
+},
+{
+"path": "healthcare/pet_grooming_shop",
+"category": "医疗健康",
+"scene": "宠物美容店",
+"label": "医疗健康 / 宠物美容店",
+"tet": "healthcare/pet_grooming_shop"
+},
+{
+"path": "healthcare/pet_boarding_area",
+"category": "医疗健康",
+"scene": "宠物寄养区",
+"label": "医疗健康 / 宠物寄养区",
+"tet": "healthcare/pet_boarding_area"
+},
+{
+"path": "hospitality/chain_hotel",
+"category": "酒旅会展",
+"scene": "连锁酒店",
+"label": "酒旅会展 / 连锁酒店",
+"tet": "hospitality/chain_hotel"
+},
+{
+"path": "hospitality/business_hotel",
+"category": "酒旅会展",
+"scene": "商务酒店",
+"label": "酒旅会展 / 商务酒店",
+"tet": "hospitality/business_hotel"
+},
+{
+"path": "hospitality/budget_hotel",
+"category": "酒旅会展",
+"scene": "经济型酒店",
+"label": "酒旅会展 / 经济型酒店",
+"tet": "hospitality/budget_hotel"
+},
+{
+"path": "hospitality/boutique_hotel",
+"category": "酒旅会展",
+"scene": "精品酒店",
+"label": "酒旅会展 / 精品酒店",
+"tet": "hospitality/boutique_hotel"
+},
+{
+"path": "hospitality/homestay",
+"category": "酒旅会展",
+"scene": "民宿",
+"label": "酒旅会展 / 民宿",
+"tet": "hospitality/homestay"
+},
+{
+"path": "hospitality/youth_hostel",
+"category": "酒旅会展",
+"scene": "青旅",
+"label": "酒旅会展 / 青旅",
+"tet": "hospitality/youth_hostel"
+},
+{
+"path": "hospitality/serviced_apartment_hotel",
+"category": "酒旅会展",
+"scene": "公寓式酒店",
+"label": "酒旅会展 / 公寓式酒店",
+"tet": "hospitality/serviced_apartment_hotel"
+},
+{
+"path": "hospitality/resort_hotel",
+"category": "酒旅会展",
+"scene": "度假酒店",
+"label": "酒旅会展 / 度假酒店",
+"tet": "hospitality/resort_hotel"
+},
+{
+"path": "hospitality/banquet_hall",
+"category": "酒旅会展",
+"scene": "宴会厅",
+"label": "酒旅会展 / 宴会厅",
+"tet": "hospitality/banquet_hall"
+},
+{
+"path": "hospitality/wedding_venue",
+"category": "酒旅会展",
+"scene": "婚宴场地",
+"label": "酒旅会展 / 婚宴场地",
+"tet": "hospitality/wedding_venue"
+},
+{
+"path": "hospitality/convention_center",
+"category": "酒旅会展",
+"scene": "会展中心",
+"label": "酒旅会展 / 会展中心",
+"tet": "hospitality/convention_center"
+},
+{
+"path": "hospitality/theater_lobby",
+"category": "酒旅会展",
+"scene": "剧院大厅",
+"label": "酒旅会展 / 剧院大厅",
+"tet": "hospitality/theater_lobby"
+},
+{
+"path": "hospitality/cinema_lobby",
+"category": "酒旅会展",
+"scene": "影院大厅",
+"label": "酒旅会展 / 影院大厅",
+"tet": "hospitality/cinema_lobby"
+},
+{
+"path": "hospitality/scenic_area_visitor_center",
+"category": "酒旅会展",
+"scene": "景区游客服务中心",
+"label": "酒旅会展 / 景区游客服务中心",
+"tet": "hospitality/scenic_area_visitor_center"
+},
+{
+"path": "factory/factory_electronics",
+"category": "工业",
+"scene": "电子厂",
+"label": "工业 / 电子厂",
+"tet": "factory/factory_electronics"
+},
+{
+"path": "industry/semiconductor_packaging_testing_factory",
+"category": "工业",
+"scene": "半导体封测厂",
+"label": "工业 / 半导体封测厂",
+"tet": "industry/semiconductor_packaging_testing_factory"
+},
+{
+"path": "industry/pcb_factory",
+"category": "工业",
+"scene": "PCB厂",
+"label": "工业 / PCB厂",
+"tet": "industry/pcb_factory"
+},
+{
+"path": "industry/battery_factory",
+"category": "工业",
+"scene": "电池厂",
+"label": "工业 / 电池厂",
+"tet": "industry/battery_factory"
+},
+{
+"path": "industry/home_appliance_factory",
+"category": "工业",
+"scene": "家电厂",
+"label": "工业 / 家电厂",
+"tet": "industry/home_appliance_factory"
+},
+{
+"path": "industry/auto_parts_factory",
+"category": "工业",
+"scene": "汽配厂",
+"label": "工业 / 汽配厂",
+"tet": "industry/auto_parts_factory"
+},
+{
+"path": "industry/machining_factory",
+"category": "工业",
+"scene": "机械加工厂",
+"label": "工业 / 机械加工厂",
+"tet": "industry/machining_factory"
+},
+{
+"path": "industry/hardware_factory",
+"category": "工业",
+"scene": "五金厂",
+"label": "工业 / 五金厂",
+"tet": "industry/hardware_factory"
+},
+{
+"path": "industry/plastic_products_factory",
+"category": "工业",
+"scene": "塑料制品厂",
+"label": "工业 / 塑料制品厂",
+"tet": "industry/plastic_products_factory"
+},
+{
+"path": "industry/footwear_factory",
+"category": "工业",
+"scene": "鞋厂",
+"label": "工业 / 鞋厂",
+"tet": "industry/footwear_factory"
+},
+{
+"path": "industry/bags_luggage_factory",
+"category": "工业",
+"scene": "箱包厂",
+"label": "工业 / 箱包厂",
+"tet": "industry/bags_luggage_factory"
+},
+{
+"path": "industry/furniture_factory",
+"category": "工业",
+"scene": "家具厂",
+"label": "工业 / 家具厂",
+"tet": "industry/furniture_factory"
+},
+{
+"path": "industry/wood_products_factory",
+"category": "工业",
+"scene": "木制品厂",
+"label": "工业 / 木制品厂",
+"tet": "industry/wood_products_factory"
+},
+{
+"path": "industry/glass_products_factory",
+"category": "工业",
+"scene": "玻璃制品厂",
+"label": "工业 / 玻璃制品厂",
+"tet": "industry/glass_products_factory"
+},
+{
+"path": "industry/ceramics_factory",
+"category": "工业",
+"scene": "陶瓷厂",
+"label": "工业 / 陶瓷厂",
+"tet": "industry/ceramics_factory"
+},
+{
+"path": "industry/carton_factory",
+"category": "工业",
+"scene": "纸箱厂",
+"label": "工业 / 纸箱厂",
+"tet": "industry/carton_factory"
+},
+{
+"path": "industry/printing_factory",
+"category": "工业",
+"scene": "印刷厂",
+"label": "工业 / 印刷厂",
+"tet": "industry/printing_factory"
+},
+{
+"path": "industry/packaging_material_factory",
+"category": "工业",
+"scene": "包装材料厂",
+"label": "工业 / 包装材料厂",
+"tet": "industry/packaging_material_factory"
+},
+{
+"path": "industry/bakery_factory",
+"category": "工业",
+"scene": "烘焙食品厂",
+"label": "工业 / 烘焙食品厂",
+"tet": "industry/bakery_factory"
+},
+{
+"path": "industry/biscuit_factory",
+"category": "工业",
+"scene": "饼干厂",
+"label": "工业 / 饼干厂",
+"tet": "industry/biscuit_factory"
+},
+{
+"path": "industry/dairy_factory",
+"category": "工业",
+"scene": "乳制品厂",
+"label": "工业 / 乳制品厂",
+"tet": "industry/dairy_factory"
+},
+{
+"path": "industry/beverage_factory",
+"category": "工业",
+"scene": "饮料厂",
+"label": "工业 / 饮料厂",
+"tet": "industry/beverage_factory"
+},
+{
+"path": "industry/seasoning_factory",
+"category": "工业",
+"scene": "调味品厂",
+"label": "工业 / 调味品厂",
+"tet": "industry/seasoning_factory"
+},
+{
+"path": "industry/prepared_food_processing_factory",
+"category": "工业",
+"scene": "预制菜加工厂",
+"label": "工业 / 预制菜加工厂",
+"tet": "industry/prepared_food_processing_factory"
+},
+{
+"path": "industry/cosmetics_factory",
+"category": "工业",
+"scene": "化妆品厂",
+"label": "工业 / 化妆品厂",
+"tet": "industry/cosmetics_factory"
+},
+{
+"path": "industry/daily_chemicals_factory",
+"category": "工业",
+"scene": "日化厂",
+"label": "工业 / 日化厂",
+"tet": "industry/daily_chemicals_factory"
+},
+{
+"path": "industry/medical_consumables_factory",
+"category": "工业",
+"scene": "医疗耗材厂",
+"label": "工业 / 医疗耗材厂",
+"tet": "industry/medical_consumables_factory"
+},
+{
+"path": "industry/pharmaceutical_factory",
+"category": "工业",
+"scene": "制药厂",
+"label": "工业 / 制药厂",
+"tet": "industry/pharmaceutical_factory"
+},
+{
+"path": "public_mobility/subway_station",
+"category": "公共与出行",
+"scene": "地铁站",
+"label": "公共与出行 / 地铁站",
+"tet": "public_mobility/subway_station"
+},
+{
+"path": "public_mobility/bus_stop",
+"category": "公共与出行",
+"scene": "公交站",
+"label": "公共与出行 / 公交站",
+"tet": "public_mobility/bus_stop"
+},
+{
+"path": "public_mobility/bus_terminal",
+"category": "公共与出行",
+"scene": "公交枢纽站",
+"label": "公共与出行 / 公交枢纽站",
+"tet": "public_mobility/bus_terminal"
+},
+{
+"path": "public_mobility/train_station_waiting_area",
+"category": "公共与出行",
+"scene": "火车站候车区",
+"label": "公共与出行 / 火车站候车区",
+"tet": "public_mobility/train_station_waiting_area"
+},
+{
+"path": "public_mobility/high_speed_rail_station_hall",
+"category": "公共与出行",
+"scene": "高铁站大厅",
+"label": "公共与出行 / 高铁站大厅",
+"tet": "public_mobility/high_speed_rail_station_hall"
+},
+{
+"path": "public_mobility/airport_check_in_area",
+"category": "公共与出行",
+"scene": "机场值机区",
+"label": "公共与出行 / 机场值机区",
+"tet": "public_mobility/airport_check_in_area"
+},
+{
+"path": "public_mobility/airport_pre_security_waiting_area",
+"category": "公共与出行",
+"scene": "机场安检外等候区",
+"label": "公共与出行 / 机场安检外等候区",
+"tet": "public_mobility/airport_pre_security_waiting_area"
+},
+{
+"path": "public_mobility/gas_station",
+"category": "公共与出行",
+"scene": "加油站",
+"label": "公共与出行 / 加油站",
+"tet": "public_mobility/gas_station"
+},
+{
+"path": "public_mobility/highway_service_area",
+"category": "公共与出行",
+"scene": "高速服务区",
+"label": "公共与出行 / 高速服务区",
+"tet": "public_mobility/highway_service_area"
+},
+{
+"path": "public_mobility/ev_charging_station",
+"category": "公共与出行",
+"scene": "充电站",
+"label": "公共与出行 / 充电站",
+"tet": "public_mobility/ev_charging_station"
+},
+{
+"path": "public_mobility/community_service_center",
+"category": "公共与出行",
+"scene": "社区服务中心",
+"label": "公共与出行 / 社区服务中心",
+"tet": "public_mobility/community_service_center"
+},
+{
+"path": "public_mobility/postal_outlet",
+"category": "公共与出行",
+"scene": "邮政网点",
+"label": "公共与出行 / 邮政网点",
+"tet": "public_mobility/postal_outlet"
+},
+{
+"path": "public_mobility/self_service_parcel_locker_area",
+"category": "公共与出行",
+"scene": "自助快递柜区",
+"label": "公共与出行 / 自助快递柜区",
+"tet": "public_mobility/self_service_parcel_locker_area"
+},
+{
+"path": "public_mobility/park_visitor_service_point",
+"category": "公共与出行",
+"scene": "公园游客服务点",
+"label": "公共与出行 / 公园游客服务点",
+"tet": "public_mobility/park_visitor_service_point"
+},
+{
+"path": "public_mobility/stadium_public_corridor",
+"category": "公共与出行",
+"scene": "体育馆公共通道",
+"label": "公共与出行 / 体育馆公共通道",
+"tet": "public_mobility/stadium_public_corridor"
+},
+{
+"path": "public_mobility/mall_public_atrium",
+"category": "公共与出行",
+"scene": "商场公共中庭",
+"label": "公共与出行 / 商场公共中庭",
+"tet": "public_mobility/mall_public_atrium"
+},
+{
+"path": "agriculture/paddy_field",
+"category": "农业（种植业）",
+"scene": "水稻田",
+"label": "农业（种植业） / 水稻田",
+"tet": "agriculture/paddy_field"
+},
+{
+"path": "agriculture/wheat_planting_field",
+"category": "农业（种植业）",
+"scene": "小麦种植田",
+"label": "农业（种植业） / 小麦种植田",
+"tet": "agriculture/wheat_planting_field"
+},
+{
+"path": "agriculture/corn_planting_base",
+"category": "农业（种植业）",
+"scene": "玉米种植基地",
+"label": "农业（种植业） / 玉米种植基地",
+"tet": "agriculture/corn_planting_base"
+},
+{
+"path": "agriculture/vegetable_greenhouse",
+"category": "农业（种植业）",
+"scene": "蔬菜大棚",
+"label": "农业（种植业） / 蔬菜大棚",
+"tet": "agriculture/vegetable_greenhouse"
+},
+{
+"path": "agriculture/crop_agriculture",
+"category": "农业（种植业）",
+"scene": "草莓果园",
+"label": "农业（种植业） / 草莓果园",
+"tet": "agriculture/crop_agriculture"
+},
+{
+"path": "agriculture/grape_vineyard",
+"category": "农业（种植业）",
+"scene": "葡萄园",
+"label": "农业（种植业） / 葡萄园",
+"tet": "agriculture/grape_vineyard"
+},
+{
+"path": "agriculture/tea_garden",
+"category": "农业（种植业）",
+"scene": "茶园",
+"label": "农业（种植业） / 茶园",
+"tet": "agriculture/tea_garden"
+},
+{
+"path": "agriculture/flower_planting_base",
+"category": "农业（种植业）",
+"scene": "花卉种植基地",
+"label": "农业（种植业） / 花卉种植基地",
+"tet": "agriculture/flower_planting_base"
+},
+{
+"path": "animal_husbandry/dairy_cow_pasture",
+"category": "畜牧业",
+"scene": "奶牛牧场",
+"label": "畜牧业 / 奶牛牧场",
+"tet": "animal_husbandry/dairy_cow_pasture"
+},
+{
+"path": "animal_husbandry/beef_cattle_farm",
+"category": "畜牧业",
+"scene": "肉牛养殖场",
+"label": "畜牧业 / 肉牛养殖场",
+"tet": "animal_husbandry/beef_cattle_farm"
+},
+{
+"path": "animal_husbandry/pig_breeding_farm",
+"category": "畜牧业",
+"scene": "生猪养殖场",
+"label": "畜牧业 / 生猪养殖场",
+"tet": "animal_husbandry/pig_breeding_farm"
+},
+{
+"path": "animal_husbandry/laying_hen_farm",
+"category": "畜牧业",
+"scene": "蛋鸡养殖场",
+"label": "畜牧业 / 蛋鸡养殖场",
+"tet": "animal_husbandry/laying_hen_farm"
+},
+{
+"path": "animal_husbandry/broiler_chicken_farm",
+"category": "畜牧业",
+"scene": "肉鸡养殖场",
+"label": "畜牧业 / 肉鸡养殖场",
+"tet": "animal_husbandry/broiler_chicken_farm"
+},
+{
+"path": "animal_husbandry/sheep_farm",
+"category": "畜牧业",
+"scene": "养羊场",
+"label": "畜牧业 / 养羊场",
+"tet": "animal_husbandry/sheep_farm"
+},
+{
+"path": "animal_husbandry/duck_farm",
+"category": "畜牧业",
+"scene": "养鸭场",
+"label": "畜牧业 / 养鸭场",
+"tet": "animal_husbandry/duck_farm"
+},
+{
+"path": "aquaculture/freshwater_fish_farm",
+"category": "水产业",
+"scene": "淡水鱼养殖场",
+"label": "水产业 / 淡水鱼养殖场",
+"tet": "aquaculture/freshwater_fish_farm"
+},
+{
+"path": "aquaculture/prawn_farming_base",
+"category": "水产业",
+"scene": "对虾养殖基地",
+"label": "水产业 / 对虾养殖基地",
+"tet": "aquaculture/prawn_farming_base"
+},
+{
+"path": "aquaculture/crab_farming_pond",
+"category": "水产业",
+"scene": "螃蟹养殖塘",
+"label": "水产业 / 螃蟹养殖塘",
+"tet": "aquaculture/crab_farming_pond"
+},
+{
+"path": "aquaculture/sea_cage_aquaculture",
+"category": "水产业",
+"scene": "海水网箱养殖",
+"label": "水产业 / 海水网箱养殖",
+"tet": "aquaculture/sea_cage_aquaculture"
+},
+{
+"path": "aquaculture/indoor_recirculating_aquaculture_farm",
+"category": "水产业",
+"scene": "室内循环水养殖场",
+"label": "水产业 / 室内循环水养殖场",
+"tet": "aquaculture/indoor_recirculating_aquaculture_farm"
+},
+{
+"path": "aquaculture/aquatic_hatchery_center",
+"category": "水产业",
+"scene": "水产育苗中心",
+"label": "水产业 / 水产育苗中心",
+"tet": "aquaculture/aquatic_hatchery_center"
+}
+],
+"restricted": [
+{
+"domain": "工业",
+"scene": "糖果厂",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "工业",
+"scene": "制衣厂",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "工业",
+"scene": "手工品作坊",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "居家",
+"scene": "宿舍",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "工业",
+"scene": "玩具作坊",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "商业服务",
+"scene": "快递驿站",
+"status": "限制",
+"note": "该场景可以先储备，待查看已有数据情况后再判断是否还需要采集"
+},
+{
+"domain": "教育",
+"scene": "幼儿园教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "小学教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "中学教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "大学教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "艺术培训教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "语言培训教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "编程培训教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "实验室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "计算机机房",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "手工教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "音乐教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "舞蹈教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "美术教室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "图书馆",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "自习室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "研讨室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "教师办公室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "学校食堂",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "校园便利店",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "宿舍公共区",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "校医院",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "教育",
+"scene": "体育器材室",
+"status": "拒收",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "办公",
+"scene": "开放式办公室",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "办公",
+"scene": "联合办公空间",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "办公",
+"scene": "小型创业办公室",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "办公",
+"scene": "大型企业前台",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "办公",
+"scene": "会议中心",
+"status": "限制",
+"note": "如有特殊、高价值场景和任务，可在群内沟通申报"
+},
+{
+"domain": "商业服务",
+"scene": "无人机维修店",
+"status": "拒收",
+"note": ""
+},
+{
+"domain": "商业服务",
+"scene": "",
+"status": "",
+"note": ""
+}
+]
+}

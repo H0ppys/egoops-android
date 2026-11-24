@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!--
+        这台服务器用自签证书：https 优先，并固定只信任下面这张证书。
+        cleartextTrafficPermitted 打开是为了 https 握手失败时能退回 http，
+        否则系统会直接报 "Cleartext HTTP traffic not permitted"。
+    -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">123.207.6.210</domain>
+        <trust-anchors>
+            <certificates src="@raw/egoops_cert" />
+        </trust-anchors>
+    </domain-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
